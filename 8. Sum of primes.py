@@ -53,6 +53,6 @@ print(findCombinations(5)) # = 1
 print(findCombinations(6)) # = 2
 print(findCombinations(7)) # = 2
 print(findCombinations(8)) # = 3
-print(findCombinations(9)) # = 4
+print(findCombinations(9)) # = 4 (2+2+2+3 ; 2+2+5 ; 2+7 ; 3+3+3)
 
 
